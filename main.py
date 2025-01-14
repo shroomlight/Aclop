@@ -1,7 +1,7 @@
 #本文件是主文件
 
 #导入模块
-import vars,isnt_space
+import isnt_space
 
 #给变量赋值
 script = vars.scripts.splitlines()
