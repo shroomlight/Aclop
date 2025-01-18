@@ -27,4 +27,4 @@ class string() :
                 self.char = i
             
             self.text = self.text + self.char
-            times += 1
+            self.times += 1
