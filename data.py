@@ -4,7 +4,7 @@
 import consts
 
 #字符串
-def string() :
+def string(string) :
     #给变量赋值
     text = ''    #字符串中的文本
     raec = False    #当前字符是否是转义字符
@@ -31,7 +31,7 @@ def string() :
         times += 1
 
 #数字
-def number() :
+def number(number) :
     #给变量赋值
     char = ''    #当前字符
     num = ''    #数字内容
